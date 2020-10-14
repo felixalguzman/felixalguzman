@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=felixalguzman)
+
 
 ![counter](https://enz8q3xl4io1lir.m.pipedream.net)
