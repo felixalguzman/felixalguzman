@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=felixalguzman)
 
+![Felix's github stats](https://github-readme-stats.vercel.app/api?username=felixalguzman&count_private=true&show_icons=true)
+
 
 ![counter](https://enz8q3xl4io1lir.m.pipedream.net)
