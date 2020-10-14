@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Felix's github stats](https://github-readme-stats.vercel.app/api?username=felixalguzman&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixalguzman&langs_count=9&hide=prolog,txt,text&layout=compact)](https://github.com/felixalguzman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixalguzman&langs_count=9&hide=prolog,txt,text,sml&layout=compact)](https://github.com/felixalguzman/github-readme-stats)
 
 ![counter](https://enz8q3xl4io1lir.m.pipedream.net)
