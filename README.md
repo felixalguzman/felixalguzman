@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=felixalguzman)
-
 ![Felix's github stats](https://github-readme-stats.vercel.app/api?username=felixalguzman&count_private=true&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixalguzman)](https://github.com/felixalguzman/github-readme-stats)
 
 ![counter](https://enz8q3xl4io1lir.m.pipedream.net)
