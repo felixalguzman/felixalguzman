@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=felixalguzman&count_private=true&show_icons=true" />
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,dotnet,java,spring,postgres,visualstudio,js,html,css,react,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,dotnet,java,spring,postgres,visualstudio,js,html,css,react,raspberrypi,cs,cloudflare,bots,django,docker,githubactions,)](https://skillicons.dev)
 
 ![counter](https://enz8q3xl4io1lir.m.pipedream.net)
